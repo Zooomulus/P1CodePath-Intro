@@ -38,7 +38,9 @@ Here's a video / GIF that demos all of the app's implemented features:
 ![proj1](https://github.com/Zooomulus/Proj1-CodePath/assets/115956505/e491dd6f-4dec-4087-adee-19f212057c82)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-![Animation13](https://github.com/Zooomulus/Proj1-CodePath/assets/115956505/275503c4-8f85-4107-936b-0d78e24bd861)
+
+![Animation13](https://github.com/Zooomulus/Proj1-CodePath/assets/115956505/84baeff8-40f2-4e85-8510-7cf9ede7ed43)
+
 
 GIF created with **your chosen GIF tool**
 
