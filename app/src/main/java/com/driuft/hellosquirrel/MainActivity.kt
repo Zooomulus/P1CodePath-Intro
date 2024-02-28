@@ -39,10 +39,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureName() {
-        profileName.text = getString(
-            R.string.full_name,
-            getString(R.string.first_name),
-            getString(R.string.last_name)
-        )
+        // Assuming R.string.full_name is a valid resource ID
+        val fullName = getString(R.string.full_name)
+        profileName.text = fullName
     }
 }
