@@ -39,7 +39,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![Uploading Animation13.gif…]()
 
-
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
