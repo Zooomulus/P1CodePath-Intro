@@ -4,7 +4,7 @@
 
 Submitted by: **Dung Nguyen**
 
-Time spent: **3.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
@@ -35,9 +35,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![proj1](https://github.com/Zooomulus/Proj1-CodePath/assets/115956505/e491dd6f-4dec-4087-adee-19f212057c82)
 
-![Uploading Animation13.gif…]()
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Animation13](https://github.com/Zooomulus/Proj1-CodePath/assets/115956505/275503c4-8f85-4107-936b-0d78e24bd861)
 
 GIF created with **your chosen GIF tool**
 
